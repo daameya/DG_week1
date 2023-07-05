@@ -1,1 +1,1 @@
-# DG_week1
+# Data Glacier assignments
